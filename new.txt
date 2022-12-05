@@ -2,3 +2,5 @@ name :
  : :Pass :
 n
 nea iupdate
+
+upadaet note today is upadate for flex
