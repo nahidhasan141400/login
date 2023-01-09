@@ -2,6 +2,7 @@ name :
  : :Pass :
 n
 nea iupdate
+upadate nea branch in my private repositaaro
 
 upadaet note today is upadate for flex
 
