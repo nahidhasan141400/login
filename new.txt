@@ -39,3 +39,7 @@ https://github.com/rusty1s/table2excel
 --deploya to bdx ----vps --- pwd note on note ---------
 
 add ok -----
+
+
+add report for payment 
+route :/paymentdata
