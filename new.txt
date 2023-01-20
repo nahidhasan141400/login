@@ -43,3 +43,6 @@ add ok -----
 
 add report for payment 
 route :/paymentdata
+
+
+https://codedamn.com/news/nextjs/how-to-use-socket-io
