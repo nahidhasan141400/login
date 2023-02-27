@@ -56,3 +56,7 @@ https://github.com/RahulVijayam/laravel-ecommerce-project
 
 .....................new update inbound connection .....
 .......... firewall configuration for cpanel use whm ...........
+
+
+///////---------------- lear sslpayment gateway for dewanict ---------------------////////
+------------------------------------------------------------------------------------------
